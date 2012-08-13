@@ -1,0 +1,7 @@
+#nav ul li {
+	float:left;
+	width:25%;
+	text-align:center;
+}
+
+#nav ul li a {display:block;}

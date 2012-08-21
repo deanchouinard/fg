@@ -49,17 +49,50 @@ ul.nav a {
 	padding: 0 1em;
 }
 
-#content {
+.content {
 	margin: 10px;
 	padding: 10px;
 	width: 480px;
 }
 
-#content img {
+.content img {
 	margin: 10px;
 	float: left;
 	height: 100px ;
 	width: 100px ;
+}
+
+.content p {
+	float: none;
+}
+
+.clear {
+	clear: both;
+}
+
+#phone {
+	margin: 0px;
+	padding: 5px;
+	color: red;
+	font-size: 1.5em;
+	text-align: center;
+	
+}
+#address {
+	margin: 0px;
+	padding: 5px;
+	color: black;
+	font-size: 1em;
+	text-align: center;
+	
+}
+#email {
+	margin: 0px;
+	padding: 5px;
+	color: red;
+	font-size: 1em;
+	text-align: center;
+	
 }
 
 /*

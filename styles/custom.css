@@ -46,9 +46,18 @@ ul.nav a {
 	display: block;
 	color: yellow;
 	text-decoration: none;
+	border-top: 1px solid #e4ffd3;
+	border-bottom: 1px solid #486b02;
 	padding: 0 1em;
 }
 
+ul.nav a:hover,
+ul.nav a:focus,
+	ul.nav a.selected {
+		color: #e4ffd3;
+		background-color: #6da203;
+	}
+	
 .content {
 	margin: 10px;
 	padding: 10px;

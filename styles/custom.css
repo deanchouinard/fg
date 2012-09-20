@@ -111,8 +111,9 @@ ul.nav a:focus,
 }
 
 #gmap {
-	margin: 20px;
+	margin: auto;
 	padding: 20px;
+	text-align: center;
 }
 
 table.prods {

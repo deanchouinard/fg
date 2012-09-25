@@ -1,9 +1,10 @@
 
 body {
-	background-color: #f0ffff;
+	background-color: #ffffff;
 	margin: 10px;
 	padding: 5px;
 	width: 960px;
+	font: 100% "Adobe Caslon Pro", Georgia, "Times New Roman", serif;
 	
 }
 
@@ -21,8 +22,7 @@ height:100%;
 #banner {
 	margin: 10px;
 	padding: 5px;
-	background-color: blue;
-	color: yellow;
+	color: blue;
 	font-size: 2em;
 	text-align: center;
 	
